@@ -1,2 +1,1 @@
-# my-django-app
-Some description
+Readme content
